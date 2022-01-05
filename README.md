@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Alex and I have been working as a software engineer for about 7 years. I've took absolutely different positions on various projects such as a Full-stack .NET + Angular developer, database architect, ETL developer, consultant and so on. However, I constantly prefer to study and upgrade my knowledge in different. At the moment, I decided to switch my main focus in software development to React + NodeJS.
+
+Evenmore, I don't hestitate to be engaged in community schools or enroll high-quality courses.
+https://www.codewars.com/users/AlexBortnik/badges/large
+
 <!--
 **AliaksandrBortnik/AliaksandrBortnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
