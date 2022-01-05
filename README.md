@@ -5,9 +5,11 @@ Moreover, I don't hestitate to be engaged in community schools or enroll high-qu
 
 ## Links
 
-<img src="https://www.codewars.com/users/AlexBortnik/badges/large" alt="codewars"/>
-Freecodecamp: https://www.freecodecamp.org/alexbortnik
+<a href="https://www.linkedin.com/in/aliaksandr-bortnik-86530686/" target="_blank">LinkedIn</a>
 
+<a href="https://www.freecodecamp.org/alexbortnik" target="_blank">Freecodecamp</a>
+
+<img src="https://www.codewars.com/users/AlexBortnik/badges/large" alt="codewars"/>
 
 ## Certificates:
 
