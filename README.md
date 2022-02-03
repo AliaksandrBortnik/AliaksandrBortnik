@@ -13,6 +13,8 @@ Moreover, I don't hestitate to be engaged in community schools or enroll high-qu
 
 ## Certificates:
 
+<a href="https://www.udemy.com/certificate/UC-6093f4a0-c32e-4d02-931d-2ab6ed11624a/">The Complete JavaScript Course 2022: From Zero to Expert</a>
+
 <a href="https://learn.javascript.ru/courses/js-20211109/alexbortnik/ru/certificate.jpg" target="_blank">[RU] javascript.ru - "JS/DOM API for programmers"</a> / 
 <a href="https://learn.javascript.ru/courses/js-20211109/alexbortnik/en/certificate.jpg" target="_blank">[ENG] javascript.ru - "JS/DOM API for programmers"</a>
 
