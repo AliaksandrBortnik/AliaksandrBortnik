@@ -9,7 +9,7 @@ Moreover, I don't hestitate to be engaged in community schools or enroll high-qu
 
 <a href="https://www.freecodecamp.org/alexbortnik" target="_blank">Freecodecamp</a>
 
-<img src="https://www.codewars.com/users/AlexBortnik/badges/large" alt="codewars"/>
+<a href="https://www.codewars.com/users/AlexBortnik" target="_blank"><img src="https://www.codewars.com/users/AlexBortnik/badges/large" alt="codewars"/></a>
 
 ## Certificates:
 
