@@ -12,6 +12,7 @@ Moreover, I don't hestitate to be engaged in community schools or enroll high-qu
 <a href="https://www.codewars.com/users/AlexBortnik" target="_blank"><img src="https://www.codewars.com/users/AlexBortnik/badges/large" alt="codewars"/></a>
 
 ## Certificates:
+<a href="https://app.rs.school/certificate/9lns73ye">The Rolling Scopes School: NODEJS 2021 Q4 (NODE.JS)</a>
 
 <a href="https://www.udemy.com/certificate/UC-6093f4a0-c32e-4d02-931d-2ab6ed11624a/">The Complete JavaScript Course 2022: From Zero to Expert</a>
 
