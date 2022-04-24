@@ -13,11 +13,13 @@ Moreover, I don't hesitate to be engaged in community schools or enroll high-qua
 
 ## Certificates:
 
+<a href="https://www.udemy.com/certificate/UC-21e88e44-758f-468c-8085-207b4cc01d26/">React - The Complete Guide</a>
+
+<a href="https://learn.javascript.ru/courses/js-20211109/alexbortnik/en/certificate.jpg" target="_blank">JS/DOM API for programmers</a>
+
 <a href="https://app.rs.school/certificate/9lns73ye">Rolling Scopes School: NodeJS 2021 Q4</a>
 
 <a href="https://www.udemy.com/certificate/UC-6093f4a0-c32e-4d02-931d-2ab6ed11624a/">The Complete JavaScript Course 2022: From Zero to Expert</a>
-
-<a href="https://learn.javascript.ru/courses/js-20211109/alexbortnik/ru/certificate.jpg" target="_blank">[RU] javascript.ru - "JS/DOM API for programmers"</a> / <a href="https://learn.javascript.ru/courses/js-20211109/alexbortnik/en/certificate.jpg" target="_blank">[ENG] javascript.ru - "JS/DOM API for programmers"</a>
 
 <!--
 **AliaksandrBortnik/AliaksandrBortnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
